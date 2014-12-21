@@ -1,0 +1,24 @@
+h1 {
+	color: #FFFFFF;
+	font-family: "Verdana";
+	text-align: left;
+}
+h2 {
+	color: #FFFFFF;
+	font-family: "Verdana";
+	text-align: left;
+}
+h3 {
+	color: #FFFFFF;
+	font-family: "Verdana";
+	text-align: left;
+}
+body {
+    background-color: #6EA48C;
+    font-family: "Courier New";
+    text-align: center;
+}
+ul {
+    text-align: left;
+    font-variant: small-caps;
+}
